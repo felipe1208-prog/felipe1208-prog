@@ -69,12 +69,6 @@
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <br clear="both" />
-<br>
-
-<br>
-
-<br>
-
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="400" height="1">
   <br> 
