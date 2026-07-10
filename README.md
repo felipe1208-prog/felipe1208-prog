@@ -59,6 +59,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx0bHAyNGZ1ZWpveWVkYWsxMTQ2MWcyNnNhYjllY3h1dGs2a2hxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLD05H89Sokz90GAhy/giphy.gif" width="30px">  Some Music - <a href="https://open.spotify.com/playlist/0yGGDHrVTc4TWOLxMNTHhC?si=23d2c632542d4aa1">My Playlist</a></h2>
+
 <a href="https://open.spotify.com/intl-es/track/7M8eZBRTD9QNasEVReEM0H?si=211206ea3da14918">
   <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns5ojse6bcsr53ic25fn2ingx4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"  width="500"/>
 </a>
