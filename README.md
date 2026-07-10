@@ -48,7 +48,11 @@
   <img src="https://img.shields.io/badge/prettier-%23192a32?style=for-the-badge&logo=prettier&logoColor=dc524a">
 </span>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Github Stats</h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="20px"> Contact Me</h2>
+
+<span>
+  <a href="[Escríbeme un correo](mailto:sfortizrodriguez@gmail.com)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
