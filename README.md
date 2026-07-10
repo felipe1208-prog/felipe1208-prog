@@ -50,8 +50,11 @@
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="20px"> Contact Me</h2>
 
+<h4>Links</h4>
 <span>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sfortizrodriguez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/felipeortiz2205/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/Discord-pive1208-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
