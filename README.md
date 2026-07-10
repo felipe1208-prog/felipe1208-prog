@@ -32,6 +32,7 @@
 <span>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Flet-00BCD4?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 <h4>Daily Tools</h4>
@@ -68,3 +69,16 @@
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <br clear="both" />
+<br>
+
+<br>
+
+<br>
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="400" height="1">
+  <br> 
+  <span style="vertical-align: middle; font-size: 1.2em;"><b><i>"If you can imagine it, you can code it."</i></b></span>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dark_Grey_Square.svg" width="400" height="1">
+</div>
