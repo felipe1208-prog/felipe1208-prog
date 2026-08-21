@@ -32,7 +32,6 @@
 <span>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Flet-00BCD4?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 <h4>Daily Tools</h4>
@@ -46,6 +45,9 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-%23192a32?style=for-the-badge&logo=prettier&logoColor=dc524a">
+  <img src="https://img.shields.io/badge/ngrok-%231F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white">
 </span>
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="20px"> Contact Me</h2>
