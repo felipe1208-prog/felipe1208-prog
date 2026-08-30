@@ -5,7 +5,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img alt="Chill Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - :student: I'm a `Computer Engineering` student at <a href="https://www.bing.com/ck/a?!&&p=c1ca3a692cbbcdfe8aa90807d007ce3974d43be370b8d0a020461eafcae3cb60JmltdHM9MTc4MzU1NTIwMA&ptn=3&ver=2&hsh=4&fclid=2de1b0a0-c2ea-6331-3572-a5f7c34d626f&u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cCUzYSUyZiUyZnd3dy51amFwLmVkdS52ZSUyZiZzb3VyY2U9c2VycC1sb2NhbCZoPVlDM28xTTQwaVBYN3dZcnZkSFVaRVhZVDRyTUF0NiUyZll2JTJiWlhxR2VwUFVnJTNkJnA9bHdfbWFnc21sdCZpZz0zMTE4OEUxMDMwOTk0MDVCOEVDMUI0RDQ5ODkxQTcwMCZ5cGlkPVlOMTkzRDMwQUUwRUE1RTk4OQ">José Antonio Paéz</a> university.
 - :bookmark_tabs: I'm currently learning about `ASP.NET Core (.NET 10)` and `Deploy`.
