@@ -16,6 +16,7 @@
 - :relaxed: I want to meet people who are `passionate` about programming.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> My Skills</h2>
 
 <h4>Languages</h4>
@@ -49,7 +50,13 @@
   <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white">
 </span>
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="20px"> Contact Me</h2>
+<h2><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px"></img> Work & Architecture</h2>
+
+- **ERP Telegram Bot (n8n & SQL Server):** Automated workflows connecting a Telegram interface to an ERP database. Implemented role-validated SQL queries allowing users to securely retrieve business data and execute management operations directly via chat.
+- **AI-Powered ERP API (ASP.NET Core 10):** Co-developed a layered backend architecture. Integrated **Semantic Kernel** and **Dapper** utilizing *Function Calling* to translate user prompts into secure database interactions.
+- **Offline-First CRM Frontend (Vue.js):** PWA for client management using **Service Workers** and **IndexedDB** (localforage) to queue offline entries. Implemented robust synchronization logic with manual data conflict resolution, strictly adhering to OWASP Top 10 security standards.
+
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="25px"> Contact Me</h2>
 
 <h4>Links</h4>
 <span>
