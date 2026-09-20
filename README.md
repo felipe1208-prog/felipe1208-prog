@@ -55,6 +55,9 @@
 - **ERP Telegram Bot (n8n & SQL Server):** Automated workflows connecting a Telegram interface to an ERP database. Implemented role-validated SQL queries allowing users to securely retrieve business data and execute management operations directly via chat.
 - **AI-Powered ERP API (ASP.NET Core 10):** Co-developed a layered backend architecture. Integrated **Semantic Kernel** and **Dapper** utilizing *Function Calling* to translate user prompts into secure database interactions.
 - **Offline-First CRM Frontend (Vue.js):** PWA for client management using **Service Workers** and **IndexedDB** (localforage) to queue offline entries. Implemented robust synchronization logic with manual data conflict resolution, strictly adhering to OWASP Top 10 security standards.
+<a href="https://user-badge.committers.top/venezuela/felipe1208-prog">
+  <img src="https://user-badge.committers.top/venezuela/felipe1208-prog.svg" alt="committers.top badge">
+</a>
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1bmpzMTVueG9rbDdmNTR3NzNnaTNudXRrcXhyZGR0Z3NlMjh1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RepZNFg82lSV5H5Bbi/giphy.gif" width="25px"> Contact Me</h2>
 
